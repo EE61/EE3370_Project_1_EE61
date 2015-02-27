@@ -1,0 +1,20 @@
+> svn checkout https://github.com/EE61/EE3370_Project_1_EE61.git Project1
+
+A    Project2\branches
+A    Project2\trunk
+A    Project2\trunk\README.md
+Checked out revision 2.
+
+> svn commit -m "command-line update" Project1
+
+Sending        Project1\trunk\README.md
+Transmitting file data .
+Committed revision 3.
+
+> svn add Project1/trunk/MatlabCode1.m
+A         Project1\trunk\MatlabCode1.m
+
+> svn commit -m "command-line update of Matlab file" Project1/trunk/MatlabCode1.m
+Adding         Project1\trunk\MatlabCode1.m
+Transmitting file data .
+Committed revision 4.
