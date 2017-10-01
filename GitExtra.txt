@@ -1,4 +1,4 @@
-$ git clone https://github.com/EE61/EE3370_Project_1_EE61.git Project1Git
+$ git clone https://github.com/EE61/EE3370_Project_1_EE61.git Project1Gib
 
 Cloning into 'Project1Git'...
 remote: Counting objects: 12, done.
