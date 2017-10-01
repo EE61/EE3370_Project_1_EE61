@@ -3,6 +3,8 @@
 % AJL61
 % 2/27/2015
 
+
+
 clc      % Clear screen 
 clear    % Clear all variables
 A = 3; f= 1000; omega = 2*pi*f; 
